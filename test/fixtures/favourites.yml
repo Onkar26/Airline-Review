@@ -1,0 +1,9 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  userID: MyString
+  airlineID: MyString
+
+two:
+  userID: MyString
+  airlineID: MyString
