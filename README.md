@@ -5,4 +5,4 @@
 
 - Test this code on postman with different custom apis made.
 
-- Will get json response on localhost server with proper uri from routes file.
+- Will get json response on localhost server if used proper uri from routes file.
