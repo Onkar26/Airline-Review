@@ -1,5 +1,6 @@
 # README
 
+- node and yarn are required so install it before creating project.
 
 - After cloning this project do run bundle install.
 
